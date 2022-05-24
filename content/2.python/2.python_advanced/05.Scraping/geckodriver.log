@@ -109,3 +109,16 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1652797289088	geckodriver	INFO	Listening on 127.0.0.1:65185
+1652797292167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yurit\\AppData\\Local\\Temp\\rust_mozprofileyizP4O"
+1652797292584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yurit\\AppData\\Local\\Temp\\rust_mozprofileyizP4O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65186/devtools/browser/42a202da-a95a-4b48-afc9-d4aa6a74dc50
+1652797294047	Marionette	INFO	Listening on port 65211
+Read port: 65211
+1652797294151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652797295304	Marionette	INFO	Stopped listening on port 65211
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
