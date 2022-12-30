@@ -1,8 +1,10 @@
 # AI-track
 
+Work file by Yuri Hernandez Flores
+
 ## Course Overview
 
-The course's main purpose is to _bridge the gap_ between curious and solution oriented _individuals_ and _companies_ in need of capable people. It is to provide the most fundamental knowledge to the students so that they can understand what AI is. Due to limited time, we will try to eliminate theoretic proofs and formal notations as far as possible, so that the students can get the full picture of AI easily.
+The course's main purpose is to _bridge the gap_ between curious and solution oriented _individuals_ and _companies_ in need of capable people. It is to provide the most fundamental knowledge to the students so that they can understand what AI is.
 
 ![Timeline](assets/becode_pedagogy_timeline_ai.jpg)
 
@@ -30,58 +32,6 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 | [Machine Learning] | In machine learning, dealing with data is the most time-consuming process, so learning techniques such as cleaning data, histograms, etc, will make the data preparation more accurate. You'll also get familiar with procedures such as regression, classification, model evaluation, etc... |
 | [Databases & Deployment] | Learn how to store data in databases and to deploy a web service which can be accessed from anywhere in the world using a REST API and Docker.                                                                                                                                                |
 | [Deep Learning]       | Start with building a simple neural network from scratch and finally interact with Keras, PyTorch and OpenCV, will lead you to solve challenges in fields such as Computer Vision and Natural Language Processing (NLP).                                                                      |
-
-## How to thrive at BeCode?
-
-Read the following documents:
-
-1. Read the [Pedagogical Contract](https://github.com/becodeorg/BeCode/blob/master/educationalcontractAI.md)
-2. If you need a refresher, here is the presentation about the [rules](https://docs.google.com/presentation/d/1x5lRA1KaQY8nC62aNJupzee8pFtipgJr/edit#slide=id.p2)
-
-## Respect for planning: being late & absence
-
-In case of **delay**, **absence** or **early leave** (planned or not), you will need to warn us.
-
-In short here is what you do in any of the three cases above:
-
-1. Send a message to _both_ coaches on Discord or by email
-2. Warn BeCode through [my.becode.org](https://my.becode.org/):
-   - If you already have some note to justify your absence (e.g. a doctor's note), then send this straight to us using the platform (my.becode.org);
-   - If you know that you are going to obtain such document, tell us when you notify us of your absence. Once you have the document, send it to us through the platform;
-   - When you know that you will have no legal reason for the absence or delay then please let us know <abbr title="As Soon As Possible">ASAP</abbr> as well on Discord. Not showing up or showing up late is considered unprofessional.
-
-[Reminder](https://github.com/becodeorg/BeCode/blob/master/educationalcontractAI.md#sanctions):
-
-- 2 unjustified occasions of being late or leaving early is seen as an absence
-- 2 unjustified absences leads to a one-on-one conversation
-- 6 unjustified absences leads to a termination of your contract with us (and the FOREM/VDAB/Bruxelles Formation) and results in you leaving this training permanently.
-- If the absence rate (justified or not) exceeds 20%, BeCode may decide on the final exclusion of the learner.
-
-## Agenda
-
-To keep up to date with the upcoming events, workshops and hackathons remember to check the **BeCode Global Discord server `#events` channel**!
-
-## Vacation and holidays
-
-There are 2 vacation blocks during the training:
-
-👇
-
-| Dates                        | What are we doing? |
-| ---------------------------- | ------------------ |
-| June 27th -> July 1st | Planned vacation   |
-| August 29th -> September 2nd | Planned vacation   |
-
-All **Bank Holidays** will be respected as well.
-
-| Dates                        | 
-| ---------------------------- | 
-| May 26th | 
-| June 6th | 
-| July 21st | 
-| August 15th|  
-| November 1st| 
-
 
 ## Requirements
 
